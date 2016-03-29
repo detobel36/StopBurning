@@ -1,0 +1,7 @@
+name: StopBurning
+main: be.detobel36.stopburning.StopBurning
+version: 1.0
+description: Plugin empechant les mobs de bruler
+load: STARTUP
+author: Detobel36
+website: http://phoenix-rebirth.fr
