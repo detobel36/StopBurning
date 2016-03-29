@@ -10,7 +10,7 @@ Une configuration sera créé automatiquement au démarrage du plugin.  Toutes l
 
 # Me contacter/Rapport de bug
 En cas de problème, vous pouvez ouvrir une [`issue`](https://github.com/detobel36/StopBurning/issues/new).       
-Si vous voulez me contacter, vous pouvez le faire par mail: detobel36(at)phoenix-rebirth(dot)fr ou detobel36(at)hotmail(dot)fr    
+Si vous voulez me contacter, vous pouvez le faire par mail: ``detobel36(at)phoenix-rebirth(dot)fr`` ou ``detobel36(at)hotmail(dot)fr``    
 Vous pouvez également me contacter via le forum de minecraft.fr ou bukkit.fr :grinning:          
 
       
