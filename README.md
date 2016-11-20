@@ -1,18 +1,35 @@
 # StopBurning
-Plugin bukkit/spigot empêchant les mobs de brûler en pleins jour
+Plugin bukkit/spigot empêchant les mobs de brûler en pleins jour.
 
-# Téléchargement et installation
-Téléchargez l'archive du plugin [ici](https://github.com/detobel36/StopBurning/archive/master.zip)      
-Une fois cette dernière téléchargé, ouvrez le fichier `.zip` (avec WinRar par exemple) et ne gardez que le `StopBurning.jar`.  Il s'agit du plugin.  Vous n'avez plus qu'a le placer dans votre dossier `plugins` et enjoy :wink:
+## Configuration
+La configuration se créé automatiquement au premier lancement du plugin.       
+```
+# Plugin fait par Detobel36
+# La liste des mobs pouvant être mis dans la config se trouvent ici:
+# https://hub.spigotmc.org/javadocs/spigot/org/bukkit/entity/EntityType.html
+Mob: 
+    - ZOMBIE
+    - SKELETON
+```
+Il suffit de rajouter tous les mobs qui seront immunisés contre le feu du jour.
 
-# Configuration
-Une configuration sera créé automatiquement au démarrage du plugin.  Toutes les informations utiles se trouvent normalement dedans.
 
-# Me contacter/Rapport de bug
-En cas de problème, vous pouvez ouvrir une [`issue`](https://github.com/detobel36/StopBurning/issues/new).       
-Si vous voulez me contacter, vous pouvez le faire par mail: ``detobel36(at)phoenix-rebirth(dot)fr`` ou ``detobel36(at)hotmail(dot)fr``    
-Vous pouvez également me contacter via le forum de minecraft.fr ou bukkit.fr :grinning:          
+## Copyright
+Tous les fichiers sont sous licence GPL. Ce qui signifie concrètement (pour les personnes ne s'y connaissant pas trop) que :
 
-      
+> 1. La liberté d'exécuter le logiciel, pour n'importe quel usage ;
+> 2. La liberté d'étudier le fonctionnement d'un programme et de l'adapter à ses besoins, ce qui passe par l'accès aux codes sources ;
+> 3. La liberté de redistribuer des copies ;
+> 4. L'obligation de faire bénéficier à la communauté des versions modifiées.         
 
-Bon jeu !
+Source: [Wikipedia](https://fr.wikipedia.org/wiki/Licence_publique_g%C3%A9n%C3%A9rale_GNU) (bah oui j'avais pas mieux :dizzy_face:)
+
+## Télécharger
+Le téléchargement du plugin se fait sur la page [releases](https://github.com/detobel36/StopBurning/releases/)
+
+## En cas de problème
+En cas de problème n'hésitez pas à ouvrir une [issue](https://github.com/detobel36/StopBurning/issues/new). Je suis également 
+disponible par mail ou sur différent forum (minecraft.fr ou phoenixr.fr).
+
+## Contact
+Email: detobel36(at)hotmail(dot)fr
